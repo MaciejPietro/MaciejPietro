@@ -5,6 +5,8 @@
 
 🦉 Current role: Software Engineer @ **TheCodest**.
 
+😎 Personal website <a href="https://empe.netlify.app/" target="_blank">EmpeDev</a>
+
 
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:center;">
