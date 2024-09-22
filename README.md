@@ -13,7 +13,7 @@
 <img src="https://readme-stats.clckblog.space/api/top-langs/?username=maciejpietro&hide=haskell,html&exclude_repo=Downbeat&langs_count=6&size_weight=0.5&count_weight=0.5&layout=compact&card_width=260&theme=dark" alt="MaciejPietro's most used languages">
 </div>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=maciejpietro&color=FF4F8B&style=for-the-badge&label=Profile+views+since+August+2022" alt="View counter for maciejpietro">
+<img src="https://komarev.com/ghpvc/?username=maciejpietro&color=3178C6&style=for-the-badge&label=Profile+views" alt="View counter for maciejpietro">
 
 ### My projects
 
