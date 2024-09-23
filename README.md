@@ -3,8 +3,6 @@
 
 🖥️ I'm a software engineer based in **Wrocław, Poland**.
 
-🦉 Current role: Software Engineer @ **TheCodest**.
-
 😎 Personal website <a href="https://empe.netlify.app/" target="_blank">EmpeDev</a>
 
 
