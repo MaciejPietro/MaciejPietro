@@ -56,7 +56,7 @@ Feel free to get in touch via:
 
 - 🔭 I’m currently working on <a href="https://github.com/maciejpietro/Domer-Pro-Client">home planner</a>
 - 🌱 I’m currently learning C# + .NET
-- 💬 Ask me about ...
+- 💬 Best feel in TypeScript, Three.js
 - 📫 Feel free to reach me out.
 - ⚡ Fun fact: I love playing guitar and running
 
