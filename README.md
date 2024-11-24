@@ -19,16 +19,16 @@
 
 ⌨️ I've been tinkering with code since high school, but started working in 2019. I learn by doing, therefore I have built a few projects over the years.<br> Click on the cards to learn more about the projects.
 
-<a href="https://github.com/maciejpietro/Domer-Pro-Client">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=maciejpietro&repo=Domer-Pro-Client&theme=dark" />
+<a href="https://github.com/MaciejPietro/Domer-client">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=maciejpietro&repo=Domer-client&theme=dark" />
 </a>
 
-<a href="https://github.com/maciejpietro/ripple">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=maciejpietro&repo=todo-fe&theme=dark" />
+<a href="https://github.com/MaciejPietro/Domer-api">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=maciejpietro&repo=Domer-api&theme=dark" />
 </a>
 
-<a href="[https://github.com/maciejpietro/ripple](https://github.com/MaciejPietro/prototypes)">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=maciejpietro&repo=prototypes&theme=dark" />
+<a href="https://github.com/MaciejPietro/Domer-creator">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=maciejpietro&repo=Domer-creator&theme=dark" />
 </a>
 
 
