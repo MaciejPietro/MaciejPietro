@@ -23,10 +23,6 @@
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=maciejpietro&repo=Domer-client&theme=dark" />
 </a>
 
-<a href="https://github.com/MaciejPietro/Domer-api">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=maciejpietro&repo=Domer-api&theme=dark" />
-</a>
-
 <a href="https://github.com/MaciejPietro/Domer-creator">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=maciejpietro&repo=Domer-creator&theme=dark" />
 </a>
