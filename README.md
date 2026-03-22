@@ -1,8 +1,6 @@
 
 ## Hi, I'm Maciej 😎
 
-😎 Personal website <a href="https://empe.netlify.app/" target="_blank">EmpeDev</a>
-
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=maciejpietro&color=3178C6&style=for-the-badge&label=Profile+views" alt="View counter for maciejpietro">
